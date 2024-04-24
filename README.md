@@ -1,1 +1,3 @@
-# IF100
+# IF100 Computational Approaches to Problem Solving
+
+Various problems are expected to be solved using Python language. You can find the homework assignments and their solutions given during the term. 
